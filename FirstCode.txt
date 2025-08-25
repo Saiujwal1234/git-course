@@ -6,3 +6,5 @@ add the values
 submit data to the database
 
 process the data
+
+create an avator for user
